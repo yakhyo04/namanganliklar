@@ -1,0 +1,165 @@
+body {
+    /* font-family: 'Mulish',sans-serif; */
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    /* background-color: #d8dadd; */
+    background-image: url('/image/Rectangle\ 66.png');
+    background-repeat:no-repeat;
+}
+header{
+    display: flex;
+    margin-left: 100px;
+}
+.logo-right{
+    margin-left: 400px;
+}
+.mdi-img{
+    margin-right: 20px;
+}
+.logo-btn{
+    background-image: url('/image/Rectangle 5.png');
+    background-repeat: no-repeat;
+    width: 146px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 15px;
+}
+.logo-btn-1{
+    width: 20px;
+    height: 20px;
+}
+.logo-btn-2{
+    margin-bottom: 3px;
+    /* width: 97px;
+    height: 21px; */
+}
+.menu{
+    list-style-type: none;
+    display: flex;
+    padding: 5px;
+    border: 1px solid rgb(240, 237, 237);
+    background-color: #fff;
+    width: 1200px;
+    height: 68px;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+.wrapper{
+    background-color: rgb(240, 240, 240);
+    background-image: url('/image/Rectangle\ 66.png');
+    background-repeat:no-repeat;
+}
+.menu_item{
+    color: black;
+    margin-top: 25px;
+    font-size: 17px;
+    font-weight: bold;
+    width: 1151px;
+    height: 25px;
+}
+.menu_link{
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+    justify-content: space-between;
+}
+.nrg{
+    margin-left: 100px;
+    width: 1210px;
+    height: 99px;
+}
+.rectangle-item{
+    list-style-type: none;
+    display: flex;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+.rec-menu{
+    display: flex;
+}
+.rectangle-17{
+    margin-left: 100px;
+    width: 1200px;
+    height: 133px;
+    border: 1px solid rgb(194, 189, 189);
+    background-color: rgb(233, 222, 222);
+}
+
+
+/* Box */
+
+.box{
+    margin-left: 100px;
+}
+.box-1{
+    margin-left: 100px;
+}
+.covidh3{
+    line-height: 25px;
+}
+.number{
+    font-size: 30px;
+}
+.infectedh3{
+    line-height: 30px;
+    color: red;
+}
+.recoveredh3{
+    line-height: 30px;
+    color: green;
+}
+.deadh3{
+    line-height: 30px;
+}
+.prezident{
+    width: 388px;
+    height: 190px;
+    border-radius: 5px;
+}
+.menuu{
+    list-style-type: none;
+    display: flex;
+    margin-left: -40px;
+}
+.menu-item{
+    margin-right: 10px;
+}
+.menu-link{
+    text-decoration: none;
+    color: black;
+}
+.text{
+    color: #6B6D97;
+}
+
+/* Modal */
+.modal{
+    width: 819px;
+    height: 231px;
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid #fff;
+    margin-left: 300px;
+    position:absolute;
+    margin-top: -850px;
+}
+.heading{
+    color: blue;
+    line-height: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.button{
+    margin-left: 300px;
+}
+.vector-x{
+    margin-top: 10px;
+    margin-left: 790px;
+}

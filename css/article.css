@@ -1,0 +1,246 @@
+body {
+    /* font-family: 'Mulish',sans-serif; */
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+header{
+    display: flex;
+    margin-left: 100px;
+}
+.logo-right{
+    margin-left: 400px;
+}
+.mdi-img{
+    margin-right: 20px;
+}
+.logo-btn{
+    background-image: url('/image/Rectangle 5.png');
+    background-repeat: no-repeat;
+    width: 146px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 15px;
+}
+.logo-btn-1{
+    width: 20px;
+    height: 20px;
+}
+.logo-btn-2{
+    margin-bottom: 3px;
+    /* width: 97px;
+    height: 21px; */
+}
+.menu{
+    list-style-type: none;
+    display: flex;
+    padding: 5px;
+    border: 1px solid rgb(240, 237, 237);
+    background-color: #fff;
+    width: 1200px;
+    height: 68px;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+.menu_item{
+    color: black;
+    margin-top: 25px;
+    font-size: 17px;
+    font-weight: bold;
+    width: 1151px;
+    height: 25px;
+}
+.menu_link{
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+    justify-content: space-between;
+}
+.nrg{
+    margin-left: 100px;
+    width: 1210px;
+    height: 99px;
+}
+.rectangle-item{
+    list-style-type: none;
+    display: flex;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+.rec-menu{
+    display: flex;
+}
+.rectangle-17{
+    margin-left: 100px;
+    width: 1200px;
+    height: 133px;
+    border: 1px solid rgb(194, 189, 189);
+    background-color: rgb(233, 222, 222);
+}
+.wrapper{
+    background-color: rgb(240, 240, 240);
+}
+.box{
+    margin-left: 100px;
+}
+.box-1{
+    margin-left: 100px;
+}
+.covidh3{
+    line-height: 25px;
+}
+.number{
+    font-size: 30px;
+}
+.infectedh3{
+    line-height: 30px;
+    color: red;
+}
+.recoveredh3{
+    line-height: 30px;
+    color: green;
+}
+.deadh3{
+    line-height: 30px;
+}
+
+/* Article */
+.article{
+    margin-left: 100px;
+    display: flex;
+}
+.prezident{
+    width: 794px;
+    height: 379px;
+}
+.hashtag{
+    color: blue;
+}
+
+.rectangle-41{
+    width: 386px;
+    height: 570px;
+    border: 1px solid rgb(187, 183, 183);
+    background-color: rgb(245, 236, 236);
+    margin-top: 30px;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+.text{
+    font-weight: bold;
+}
+.mainh3{
+    margin-left: 20px;
+}
+.mainp{
+    margin-left: 30px;
+    line-height: 20px;
+}
+.main-time{
+    margin-left: 30px;
+    color: rgb(145, 136, 136);
+}
+.main-img{
+    margin-left: 20px;
+}
+.rectangle41{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+/* UL */
+.news{
+    margin-left: 40px;
+}
+.news-h2{
+    margin-left: 60px;
+}
+.news_menu{
+    display: flex;
+    list-style-type: none;
+}
+.news-item{
+    margin-left: 20px;
+}
+.prezidentuz{
+    width: 386px;
+    height: 190px;
+}
+
+
+/* footer */
+.footer{
+    margin-top: 40px;
+    width: 1440px;
+    height: 255px;
+    background-color: #295093;
+}
+.footer-span{
+    display: flex;
+}
+.footer-span p{
+    margin-top: 38px;
+    color: #fff;
+    font-weight: bold;
+}
+.footer-btn{
+    background-color:#133C82;
+    padding: 20px;
+    /* width: 194px; */
+    border-radius: 5px;
+    margin-top: 18px;
+    margin-left: 119px;
+}
+.btn-telegram{
+    margin-top: 28px;
+    background-image: url('/image/Rectangle 47.png');
+    background-repeat: no-repeat;
+    width: 138px;
+    height: 38px;
+    text-decoration: none;
+}
+.icon-telegram{
+    width: 18px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 6px;
+}
+.podpisatsiya{
+    margin-top: 5px;
+    width: 88px;
+    height: 19px;
+    margin-left: 5px;
+}
+.rectangle45{
+    margin-left: 119px;
+}
+.footer-menu{
+    display: flex;
+    margin-left: 115px;
+    color: #fff;
+}
+.footer-menu-item{
+    list-style-type: none;
+}
+.footer-menu-item h4{
+    margin-top: -5px;
+}
+.footer-menu-item p{
+    margin-top: -20px;
+    line-height: 25px;
+}
+.footer-item{
+    list-style-type: none;
+    line-height: 30px;
+    margin-left: 150px;
+    font-weight: bold;
+}
+.pismo{
+    color: white;
+    text-decoration: none;
+}

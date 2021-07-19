@@ -1,0 +1,284 @@
+body {
+    /* font-family: 'Mulish',sans-serif; */
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+header{
+    display: flex;
+    margin-left: 100px;
+}
+.wrapper{
+    background-color: rgb(240, 240, 240);
+}
+.logo-right{
+    margin-left: 400px;
+}
+.mdi-img{
+    margin-right: 20px;
+}
+.logo-btn{
+    background-image: url('/image/Rectangle 5.png');
+    background-repeat: no-repeat;
+    width: 146px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 15px;
+}
+.logo-btn-1{
+    width: 20px;
+    height: 20px;
+}
+.logo-btn-2{
+    margin-bottom: 3px;
+    /* width: 97px;
+    height: 21px; */
+}
+.menu{
+    list-style-type: none;
+    display: flex;
+    padding: 5px;
+    border: 1px solid rgb(240, 237, 237);
+    background-color: #fff;
+    width: 1200px;
+    height: 68px;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+.menu_item{
+    color: black;
+    margin-top: 25px;
+    font-size: 17px;
+    font-weight: bold;
+    width: 1151px;
+    height: 25px;
+}
+.menu_link{
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+    justify-content: space-between;
+}
+.nrg{
+    margin-left: 100px;
+    width: 1210px;
+    height: 99px;
+}
+
+/* Form */
+.form_action{
+    display: flex;
+}
+form{
+    margin-left: 100px;
+}
+.user_name{
+    width: 600px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #cabfbf;
+    background-color: #fcfcfc;
+}
+.user_email{
+    width: 600px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #cabfbf;
+    background-color: #fcfcfc;
+}
+.user_number{
+    width: 600px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #cabfbf;
+    background-color: #fcfcfc;
+}
+.user_theme{
+    width: 600px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #cabfbf;
+    background-color: #fcfcfc;
+}
+.message{
+    border-radius: 5px;
+    border: 1px solid #cabfbf;
+    background-color: #fcfcfc;
+}
+.user_file{
+    width: 221px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #cabfbf;
+    background-color: #fcfcfc;
+}
+.user_password{
+    width: 221px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #cabfbf;
+    background-color: #fcfcfc;
+}
+.submit{
+    font-weight: bold;
+    font-size: 20px;
+    color: #fff;
+    background-color: #295093;
+    width: 221px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+
+
+/* Box */
+.box{
+    width: 510px;
+    height: 280px;
+    border-radius: 5px;
+    border: 1px solid #cabfbf;
+    background-color: #fcfcfc;
+    margin-left: 90px;
+    margin-top: 70px;
+    box-shadow: -20px 20px 10px 1px grey;
+
+}
+.box:hover{
+    box-shadow: 20px 20px 10px 1px grey;
+}
+.info{
+    text-decoration: none;
+}
+.heading{
+    color: blue;
+    margin-left: 210px;
+}
+.box_ul{
+    list-style-type: none;
+    display: flex;
+}
+.left_ul{
+    list-style-type: none;
+    line-height: 50px;
+}
+.li-img{
+    margin-left: 15px;
+}
+.right_ul{
+    list-style-type: none;
+    line-height: 50px;
+}
+.telegram{
+    background-image: url('/image/Rectangle 63.svg');
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 33px;
+}
+.teleg{
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+.follow{
+    width: 105px;
+    height: 21px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+.footer{
+    margin-top: 40px;
+    width: 1440px;
+    height: 255px;
+    background-color: #295093;
+}
+.footer-span{
+    display: flex;
+}
+.footer-span p{
+    margin-top: 38px;
+    color: #fff;
+    font-weight: bold;
+}
+.footer-btn{
+    background-color:#133C82;
+    padding: 20px;
+    /* width: 194px; */
+    border-radius: 5px;
+    margin-top: 18px;
+    margin-left: 119px;
+}
+.btn-telegram{
+    margin-top: 28px;
+    background-image: url('/image/Rectangle 47.png');
+    background-repeat: no-repeat;
+    width: 138px;
+    height: 38px;
+    text-decoration: none;
+}
+.icon-telegram{
+    width: 18px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 6px;
+}
+.podpisatsiya{
+    margin-top: 5px;
+    width: 88px;
+    height: 19px;
+    margin-left: 5px;
+}
+.rectangle45{
+    margin-left: 119px;
+}
+.footer-menu{
+    display: flex;
+    margin-left: 115px;
+    color: #fff;
+}
+.footer-menu-item{
+    list-style-type: none;
+}
+.footer-menu-item h4{
+    margin-top: -5px;
+}
+.footer-menu-item p{
+    margin-top: -20px;
+    line-height: 25px;
+}
+.footer-item{
+    list-style-type: none;
+    line-height: 30px;
+    margin-left: 150px;
+    font-weight: bold;
+}
+.pismo{
+    color: white;
+    text-decoration: none;
+}

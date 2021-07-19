@@ -1,0 +1,323 @@
+body {
+    /* font-family: 'Mulish',sans-serif; */
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+header{
+    display: flex;
+    margin-left: 100px;
+}
+.logo-right{
+    margin-left: 400px;
+}
+.mdi-img{
+    margin-right: 20px;
+}
+.logo-btn{
+    background-image: url('/image/Rectangle 5.png');
+    background-repeat: no-repeat;
+    width: 146px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 15px;
+}
+.logo-btn-1{
+    width: 20px;
+    height: 20px;
+}
+.logo-btn-2{
+    margin-bottom: 3px;
+    /* width: 97px;
+    height: 21px; */
+}
+.menu{
+    list-style-type: none;
+    display: flex;
+    padding: 5px;
+    border: 1px solid rgb(240, 237, 237);
+    background-color: #fff;
+    width: 1200px;
+    height: 68px;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+.menu_item{
+    color: black;
+    margin-top: 25px;
+    font-size: 17px;
+    font-weight: bold;
+    width: 1151px;
+    height: 25px;
+}
+.menu_link{
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+    justify-content: space-between;
+}
+.nrg{
+    margin-left: 100px;
+    width: 1210px;
+    height: 99px;
+}
+.rectangle-item{
+    list-style-type: none;
+    display: flex;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+.rec-menu{
+    display: flex;
+}
+.rectangle-17{
+    margin-left: 100px;
+    width: 1200px;
+    height: 133px;
+    border: 1px solid rgb(194, 189, 189);
+    background-color: rgb(233, 222, 222);
+}
+.box{
+    margin-left: 100px;
+}
+.box-1{
+    margin-left: 100px;
+}
+.covidh3{
+    line-height: 25px;
+}
+.number{
+    font-size: 30px;
+}
+.infectedh3{
+    line-height: 30px;
+    color: red;
+}
+.recoveredh3{
+    line-height: 30px;
+    color: green;
+}
+.deadh3{
+    line-height: 30px;
+}
+.prezident{
+    width: 388px;
+    height: 190px;
+    border-radius: 5px;
+}
+.menuu{
+    list-style-type: none;
+    display: flex;
+    margin-left: -40px;
+}
+.menu-item{
+    margin-right: 10px;
+}
+.menu-link{
+    text-decoration: none;
+    color: black;
+}
+.text{
+    color: #6B6D97;
+}
+
+.bell-icon{
+    display: flex;
+    width: 1200px;
+    height: 91px;
+    border: 1px solid #c9a86b;
+    border-radius: 5px;
+    background-color: #d8caaf;
+    margin-left: 100px;
+}
+.bell-icon-img{
+    width: 31px;
+    height: 35px;
+    margin-top: 28px;
+    margin-left: 34px;
+    margin-right: 34px;
+}
+.bell-text{
+    margin-top: 35px;
+
+}
+.icon-text{
+    background-image: url('/image/Rectangle\ 30.png');
+    width: 264px;
+    height: 42px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.textp{
+    margin-left: 43px;
+    color: #fff;
+}
+.content{
+    display: flex;
+}
+.mainly{
+    list-style-type: none;
+    margin-left: -35px;
+} 
+.rectangle-img{
+    display: flex;
+}
+.mainly_item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 18px;
+}
+span{
+    margin-left: 10px;
+    margin-top: -15px;
+}
+.main{
+    margin-left: 100px;
+    display: flex;
+    border: 1px solid #fff;
+}
+.end{
+    margin-left: 100px;
+}
+.rectangle-41{
+    width: 375px;
+    height: 542px;
+    border: 1px solid rgb(187, 183, 183);
+    background-color: rgb(245, 236, 236);
+}
+.rectangle41{
+    margin-top: 20px;
+}
+.btn-news{
+    margin-left: 250px;
+    padding: 10px 31px;
+    border: 1px solid blue;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 7px;
+    background-color: blue;
+}
+.mainh3{
+    margin-left: 20px;
+}
+.mainp{
+    margin-left: 30px;
+    line-height: 18px;
+}
+.main-time{
+    margin-left: 30px;
+    color: rgb(145, 136, 136);
+}
+.main-img{
+    margin-left: 20px;
+}
+.phone{
+    margin-left: 100px;
+    height: 214px;
+    width: 1200px;
+    background-color: #F6F6F9;
+    display: flex;
+    border-radius: 10px;
+}
+.phone h3{
+    color: blue;
+}
+.phone span{
+    margin-top: 50px;
+}
+.i-phone{
+    width: 236px;
+    height: 177px;
+    margin-left: 19px;
+}
+.googleplay{
+    height: 50px;
+    width: 162.71px;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-right: 20px;
+}
+.appstore{
+    width: 164px;
+    height: 50px;
+    margin-top: 100px;
+    margin-right: 20px;
+}
+
+
+
+/* footer */
+.footer{
+    width: 1440px;
+    height: 255px;
+    background-color: #295093;
+}
+.footer-span{
+    display: flex;
+}
+.footer-span p{
+    margin-top: 38px;
+    color: #fff;
+    font-weight: bold;
+}
+.footer-btn{
+    background-color:#133C82;
+    padding: 20px;
+    /* width: 194px; */
+    border-radius: 5px;
+    margin-top: 18px;
+    margin-left: 119px;
+}
+.btn-telegram{
+    margin-top: 28px;
+    background-image: url('/image/Rectangle 47.png');
+    background-repeat: no-repeat;
+    width: 138px;
+    height: 38px;
+    text-decoration: none;
+}
+.icon-telegram{
+    width: 18px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 6px;
+}
+.podpisatsiya{
+    margin-top: 5px;
+    width: 88px;
+    height: 19px;
+    margin-left: 5px;
+}
+.rectangle45{
+    margin-left: 119px;
+}
+.footer-menu{
+    display: flex;
+    margin-left: 115px;
+    color: #fff;
+}
+.footer-menu-item{
+    list-style-type: none;
+}
+.footer-menu-item h4{
+    margin-top: -5px;
+}
+.footer-menu-item p{
+    margin-top: -20px;
+    line-height: 25px;
+}
+.footer-item{
+    list-style-type: none;
+    line-height: 30px;
+    margin-left: 150px;
+    font-weight: bold;
+}
+.pismo{
+    color: white;
+    text-decoration: none;
+}
